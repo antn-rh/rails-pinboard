@@ -34,6 +34,8 @@ gem 'devise', '~> 4.2'
 gem 'paperclip', '~> 5.1'
 # Masonry Gem
 gem 'masonry-rails', '~> 0.2.4'
+# Acts as votable Gem
+gem 'acts_as_votable', '~> 0.10.0'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
