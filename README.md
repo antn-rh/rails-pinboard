@@ -1,24 +1,10 @@
-# README
+# Rails Pinboard Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This RoR app was built for practice purposes. The following were used: 
+- HAML 
+- CoffeScript 
+- Ruby Gems (Masonry, Acts as Votable, Devise, Simple Form, Paperclip 
+- rails generate commands 
+- image file uploading 
+- user authentication and authorization 
+- scss 
