@@ -28,6 +28,8 @@ gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # Simple form
 gem 'simple_form', '~> 3.4'
+# Devise Gem
+gem 'devise', '~> 4.2'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
